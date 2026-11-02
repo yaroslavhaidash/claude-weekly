@@ -1,0 +1,5 @@
+{
+  "name": "claude-weekly",
+  "owner": { "name": "Yaroslav Haidash" },
+  "plugins": [{ "name": "weekly", "source": "./" }]
+}

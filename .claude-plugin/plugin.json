@@ -1,0 +1,1 @@
+{ "name": "weekly", "version": "0.1.0", "description": "Weekly plan limit used vs. week elapsed, with a pace verdict", "types": "./types/index.d.ts" }
